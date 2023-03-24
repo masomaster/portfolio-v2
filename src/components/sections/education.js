@@ -10,6 +10,10 @@ import { usePrefersReducedMotion } from '@hooks';
 const StyledJobsSection = styled.section`
   max-width: 700px;
 
+  @media (max-width: 600px) {
+    height: 550px;
+  }
+
   .inner {
     display: flex;
 
