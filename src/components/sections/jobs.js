@@ -9,6 +9,11 @@ import { usePrefersReducedMotion } from '@hooks';
 
 const StyledJobsSection = styled.section`
   max-width: 700px;
+  height: 600px;
+
+  @media (max-width: 600px) {
+    height: 750px;
+  }
 
   .inner {
     display: flex;
@@ -89,6 +94,7 @@ const StyledTabButton = styled.button`
     min-width: 120px;
     padding: 0 15px;
     border-left: 0;
+    height: 70px;
     border-bottom: 2px solid var(--lightest-navy);
     text-align: center;
   }
