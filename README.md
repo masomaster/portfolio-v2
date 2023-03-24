@@ -5,7 +5,7 @@
   masonlancaster.com - v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://masonlancaster.com" target="_blank">masonlancaster.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.hostinger.com/" target="_blank">Hostinger</a>
+  The second iteration of <a href="https://masonlancaster.com" target="_blank">masonlancaster.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and deployed on <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/masomaster/portfolio-v2/main/src/images/demo.png)
