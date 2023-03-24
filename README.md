@@ -10,4 +10,4 @@
 
 ![demo](https://raw.githubusercontent.com/masomaster/portfolio-v2/main/src/images/demo.png)
 
-I'm very grateful to [brittanychiang.com](https://brittanychiang.com) for sharing her [great work](https://github.com/bchiang7/v4) on this portfolio.
+I'm very grateful to [Brittany Chiang](https://brittanychiang.com) for sharing her [great work](https://github.com/bchiang7/v4) on this portfolio.
