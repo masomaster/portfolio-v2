@@ -251,7 +251,7 @@ const Education = () => {
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
           {degreeData &&
             degreeData.map(({ node }, i) => {
-              const { degree, program } = node.frontmatter;
+              const { degree } = node.frontmatter;
               return (
                 <StyledTabButton
                   key={i}
@@ -264,10 +264,7 @@ const Education = () => {
                   aria-selected={activeTabId === i ? true : false}
                   aria-controls={`panel-${i}`}
                 >
-                  <span>
-                    {degree}
-                    {program ? ` in ${program}` : ''}
-                  </span>
+                  <span>{degree}</span>
                 </StyledTabButton>
               );
             })}
@@ -278,7 +275,7 @@ const Education = () => {
           {degreeData &&
             degreeData.map(({ node }, i) => {
               const { frontmatter } = node;
-              const { degree, description, location, program, range, school } = frontmatter;
+              const { description, location, program, range, school } = frontmatter;
 
               return (
                 <CSSTransition key={i} in={activeTabId === i} timeout={250} classNames="fade">
@@ -291,10 +288,7 @@ const Education = () => {
                     hidden={activeTabId !== i}
                   >
                     <h3>
-                      <span>
-                        {degree}
-                        {program ? ` in ${program}` : ''}
-                      </span>
+                      <span>{program}</span>
                       <span className="company">&nbsp;@&nbsp;</span>
                       {school}, {location}
                     </h3>

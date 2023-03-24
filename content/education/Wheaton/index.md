@@ -1,7 +1,7 @@
 ---
 date: '2'
 school: 'Wheaton College'
-program: 'Hebrew Bible/Old Testament'
+program: 'Ph.D. in Hebrew Bible/Old Testament'
 degree: 'Ph.D.'
 location: 'Wheaton, IL'
 range: 'September 2016 – July 2020'
