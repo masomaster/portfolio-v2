@@ -126,7 +126,9 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Java',
     'JavaScript (ES6+)',
+    'Workday (Studio + Integrations)',
     'HTML',
     'CSS',
     'React',
@@ -149,25 +151,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I’m a software engineer who is addicted to learning and delights in collaborating. I
-              love bringing ideas to glorious, pixel-perfect, full-stack fruition.
-            </p>
-
-            <p>
-              I'm currently working on a cross-functional Agile team with UX designers as well as
-              tutoring in a{' '}
-              <a href="https://codethedream.org/">coding course for underresourced communities</a>.
-              I'm pivoting from a progressive career in academia, where I gained a Ph.D. and worked
-              as an adjunct professor. With a background in education, tech, and customer service, I
-              have a strong foundation in communication and empathetic collaboration among diverse
-              stakeholders which I am excited to leverage to deliver excellent software products
-              that enrich lives.
+              I’m a highly motivated, detail-oriented software engineer who is addicted to learning
+              and delights in collaborating. I love bringing ideas to pixel-perfect full-stack
+              fruition through innovative solutions to challenging issues. I currently work as a
+              software engineer in higher education, developing full stack solutions for a variety
+              of stakeholders with a special focus on Workday. With a background in education, tech,
+              and customer service, I have a strong foundation in critical thinking, communication,
+              problem-solving, and collaboration which I leverage to deliver excellent software
+              products that enrich lives.
             </p>
 
             <p>
               In other news, I <span className="strikethrough">like</span>{' '}
-              <span className="bold">LOVE</span> coffee ☕️. I'm particularly strange in that I enjoy
-              riding my bike 🚴🏻‍♂️{' '}
+              <span className="bold">LOVE</span> coffee ☕️. I'm particularly strange in that I
+              enjoy riding my bike 🚴🏻‍♂️{' '}
               <a href="https://www.strava.com/activities/6089368002">painfully long distances</a> up{' '}
               <a href="https://www.strava.com/activities/4177904179">painfully long mountains</a> 🏔.
               If you're interesting in connecting (for coffee, coding, or cycling!), you can find my
