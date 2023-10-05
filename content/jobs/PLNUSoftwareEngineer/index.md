@@ -7,6 +7,6 @@ range: 'May 2023 – Present'
 url: 'https://www.pointloma.edu/'
 ---
 
-- Led technical implementation of new third-party service for student conduct and accommodations to streamline services and protect data
-- Built crucial integration to ensure continuing utilization of our Student Success platform after Instructure changed data structures
+- Led technical implementation of new third-party service for student conduct and accommodations (Symplicity Advocate and Accommodate) to streamline services and protect data
+- Built crucial Workday Studio integration to ensure continuing utilization of our Student Success platform using by hundreds of faculty to accommodate new Instructure Canvas data structures
 - Earned Workday Pro Integrations Administration certification, demonstrating expertise on new development platform within 3 months
