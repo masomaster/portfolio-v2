@@ -128,12 +128,8 @@ const About = () => {
   const skills = [
     'Java',
     'JavaScript (ES6+)',
-    'Workday (Studio + Integrations)',
-    'HTML',
-    'CSS',
     'React',
-    'Bootstrap',
-    'Tailwind',
+    'Workday (Studio + Integrations)',
     'Node.js',
     'Express.js',
     'MongoDB',
@@ -141,6 +137,10 @@ const About = () => {
     'Django',
     'PostgreSQL',
     'MySQL',
+    'HTML',
+    'CSS',
+    'Bootstrap',
+    'Tailwind',
   ];
 
   return (
