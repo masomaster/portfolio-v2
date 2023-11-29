@@ -1,7 +1,6 @@
 ---
-date: '3'
+date: '2023-03-01'
 title: 'LaunchPad'
-cover: './launch-pad.png'
 github: 'https://github.com/masomaster/agile-frontend'
 external: 'https://launchpadga.netlify.app/'
 tech:

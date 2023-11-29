@@ -11,6 +11,7 @@ tech:
   - Google Books API
   - Node/Express
   - MongoDB
+  - Heroku
 ---
 
 Having trouble keeping track of your reading goals? BookIt! is a React app to help users track and motivate their reading goals and progress. You can even get custom AI-generated recommendations for your next book! Demo account username: demo@demo.com, password: demo
