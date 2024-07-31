@@ -127,6 +127,7 @@ const About = () => {
 
   const skills = [
     'Java',
+    'AWS',
     'JavaScript (ES6+)',
     'React',
     'Workday (Studio + Integrations)',
@@ -155,20 +156,17 @@ const About = () => {
               and delights in collaborating. I love bringing ideas to pixel-perfect full-stack
               fruition through innovative solutions to challenging issues. I currently work as a
               software engineer in higher education, developing full stack solutions for a variety
-              of stakeholders with a special focus on Workday. With a background in education, tech,
-              and customer service, I have a strong foundation in critical thinking, communication,
-              problem-solving, and collaboration which I leverage to deliver excellent software
-              products that enrich lives.
+              of stakeholders with a special focus on Workday, Java, and AWS. With a background in
+              education, tech, and customer service, I have a strong foundation in critical
+              thinking, communication, problem-solving, and collaboration which I leverage to
+              deliver excellent software products that enrich lives.
             </p>
 
             <p>
-              In other news, I <span className="strikethrough">like</span>{' '}
-              <span className="bold">LOVE</span> coffee ☕️. I'm particularly strange in that I
-              enjoy riding my bike 🚴🏻‍♂️{' '}
-              <a href="https://www.strava.com/activities/6089368002">painfully long distances</a> up{' '}
-              <a href="https://www.strava.com/activities/4177904179">painfully long mountains</a> 🏔.
-              If you're interesting in connecting (for coffee, coding, or cycling!), you can find my
-              contact info below.
+              In other news, I like coffee, riding my bike 🚴🏻‍♂️{' '}
+              <a href="https://www.strava.com/activities/6089368002">painfully long distances</a>,
+              and researching, publishing, and teaching in the humanities (that other world!). But
+              for things more relevant to coding, check out my repos or the links below.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

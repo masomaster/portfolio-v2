@@ -7,6 +7,8 @@ range: 'May 2023 – Present'
 url: 'https://www.pointloma.edu/'
 ---
 
-- Led technical implementation of new third-party service for student conduct and accommodations (Symplicity Advocate and Accommodate) to streamline services and protect data
-- Built crucial Workday Studio integration to ensure continuing utilization of our Student Success platform using by hundreds of faculty to accommodate new Instructure Canvas data structures
-- Earned Workday Pro Integrations Administration certification, demonstrating expertise on new development platform within 3 months
+- Optimized and maintained numerous in-house systems, utilizing tools such as Java and a host of AWS services, resulting in a marked increase in security and operational efficiency for university
+- Spearheaded technical implementation of a complex third-party system involving cross-functional stakeholders, significantly enhancing student experience through streamlined services and robust data protection
+- Engineered critical components to ensure seamless continuity of Student Success platform despite major provider data structure changes
+- Secured Workday Pro Integrations Administration and Studio certifications, showcasing a quick mastery of complex development platforms and tools.
+- Supervisor has noted “amazingly impressive” ability to independently take on new engineering challenges to successful completion

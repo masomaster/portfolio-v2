@@ -7,5 +7,5 @@ range: 'January 2023 – Present'
 url: 'https://codethedream.org/'
 ---
 
-- Co-led the Introduction to Programming course for dozens of students from under resourced communities.
+- Co-facilitated the Introduction to Programming course, empowering dozens of students from under-resourced communities with foundational coding skills and fostering a dynamic, inclusive learning environment
 - Tutored and mentored students in Introduction to Programming and React.js courses.
