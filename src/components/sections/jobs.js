@@ -12,7 +12,7 @@ const StyledJobsSection = styled.section`
   height: 800px;
 
   @media (max-width: 600px) {
-    height: 750px;
+    height: 950px;
   }
 
   .inner {
