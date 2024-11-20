@@ -3,7 +3,7 @@ date: '2023-01-20'
 title: 'Cohort Instructional Leader and Mentor'
 company: 'Code the Dream'
 location: 'remote'
-range: 'January 2023 – Present'
+range: 'January 2023 – October 2024'
 url: 'https://codethedream.org/'
 ---
 

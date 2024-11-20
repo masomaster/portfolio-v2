@@ -126,15 +126,15 @@ const About = () => {
   }, []);
 
   const skills = [
+    'AWS Certified Developer - Associate',
+    'Python',
     'Java',
-    'AWS',
     'JavaScript (ES6+)',
     'React',
-    'Workday (Studio + Integrations)',
+    'Workday Pro (Studio + Integrations)',
     'Node.js',
     'Express.js',
     'MongoDB',
-    'Python',
     'Django',
     'PostgreSQL',
     'MySQL',
